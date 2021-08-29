@@ -52,7 +52,7 @@ function App() {
             window.location.href = "https://'+{props.label}+'/WqhUMm8DKa'"; 
             return null;
           }} />
-          <Route path='/sign-up' component={initWallet} />
+          <Route path='/sign-up' component={} />
         </Switch>
       </Router>
     </>
