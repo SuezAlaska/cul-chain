@@ -52,7 +52,7 @@ function App() {
             window.location.href = "https://'+{props.label}+'/WqhUMm8DKa'"; 
             return null;
           }} />
-          <Route path='/sign-up' component={} />
+          <Route path='/sign-up' component={Home} />
         </Switch>
       </Router>
     </>
