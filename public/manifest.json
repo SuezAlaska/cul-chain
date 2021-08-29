@@ -1,0 +1,26 @@
+{
+  "short_name": "CulChain.world",
+  "name": "CulChain.world",
+  "description": "",
+  "icons": [
+    {
+      "src": "favicon_ipo_icon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "favicon_ipo_icon.ico",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "favicon_ipo_icon.ico",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#fef8f4",
+  "background_color": "#fef8f4"
+}
